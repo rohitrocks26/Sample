@@ -1,0 +1,126 @@
+{
+    "networkPackage": "IL1-3 TIER-BCO-BCO/PPO/NOP",
+    "networkList": [
+        {
+            "networkPlan": null,
+            "networkLevel": 1,
+            "networkName": "BCO",
+            "networkStatus": "In Network",
+            "proffessionalNetworkSetList": [
+                {
+                    "networkSetName": "BCO",
+                    "providerNPI_ID": 0,
+                    "providerTAX_ID": null,
+                    "effectiveDate": null,
+                    "terminationDate": null
+                },
+                {
+                    "networkSetName": "INJ",
+                    "providerNPI_ID": 0,
+                    "providerTAX_ID": null,
+                    "effectiveDate": null,
+                    "terminationDate": null
+                },
+                {
+                    "networkSetName": "IVF",
+                    "providerNPI_ID": 0,
+                    "providerTAX_ID": null,
+                    "effectiveDate": null,
+                    "terminationDate": null
+                },
+                {
+                    "networkSetName": "BDS",
+                    "providerNPI_ID": 0,
+                    "providerTAX_ID": null,
+                    "effectiveDate": null,
+                    "terminationDate": null
+                }
+            ],
+            "facilityNetworkSetList": [
+                {
+                    "networkSetName": "BCO",
+                    "providerNPI_ID": 0,
+                    "providerTAX_ID": null,
+                    "effectiveDate": null,
+                    "terminationDate": null
+                },
+                {
+                    "networkSetName": "INJ",
+                    "providerNPI_ID": 0,
+                    "providerTAX_ID": null,
+                    "effectiveDate": null,
+                    "terminationDate": null
+                },
+                {
+                    "networkSetName": "IVF",
+                    "providerNPI_ID": 0,
+                    "providerTAX_ID": null,
+                    "effectiveDate": null,
+                    "terminationDate": null
+                },
+                {
+                    "networkSetName": "BDS",
+                    "providerNPI_ID": 0,
+                    "providerTAX_ID": null,
+                    "effectiveDate": null,
+                    "terminationDate": null
+                }
+            ]
+        },
+        {
+            "networkPlan": null,
+            "networkLevel": 2,
+            "networkName": "PPO",
+            "networkStatus": "In Network",
+            "proffessionalNetworkSetList": [
+                {
+                    "networkSetName": "PPO",
+                    "providerNPI_ID": 0,
+                    "providerTAX_ID": null,
+                    "effectiveDate": null,
+                    "terminationDate": null
+                }
+            ],
+            "facilityNetworkSetList": [
+                {
+                    "networkSetName": "PPO",
+                    "providerNPI_ID": 0,
+                    "providerTAX_ID": null,
+                    "effectiveDate": null,
+                    "terminationDate": null
+                }
+            ]
+        },
+        {
+            "networkPlan": null,
+            "networkLevel": 3,
+            "networkName": "NOP",
+            "networkStatus": "Out Network",
+            "proffessionalNetworkSetList": [
+                {
+                    "networkSetName": "NOP",
+                    "providerNPI_ID": 0,
+                    "providerTAX_ID": null,
+                    "effectiveDate": null,
+                    "terminationDate": null
+                }
+            ],
+            "facilityNetworkSetList": [
+                {
+                    "networkSetName": "NOP",
+                    "providerNPI_ID": 0,
+                    "providerTAX_ID": null,
+                    "effectiveDate": null,
+                    "terminationDate": null
+                },
+                {
+                    "networkSetName": null,
+                    "providerNPI_ID": 0,
+                    "providerTAX_ID": null,
+                    "effectiveDate": null,
+                    "terminationDate": null
+                }
+            ]
+        }
+    ]
+}
